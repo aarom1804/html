@@ -1,0 +1,20 @@
+tbody td{
+    padding: 0px 50px;
+    border-left: solid thin;
+    border-bottom: solid medium;
+}
+table{
+    border: solid thick black;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: bisque;
+}
+tfoot{
+    text-align: center;
+    background-color: cyan;
+}
+caption{
+    background-color: cyan;
+    
+
+}
