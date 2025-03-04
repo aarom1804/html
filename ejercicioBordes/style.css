@@ -1,0 +1,9 @@
+main{
+    border-top: dotted green 5px;
+    border-right: dashed blue 10px;
+    border-bottom: solid red 5px;
+    border-left: double black 10px;
+    padding: 50px;
+    margin: 50px;
+
+}
