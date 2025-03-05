@@ -1,3 +1,6 @@
+body{
+    background-color: burlywood;
+}
 tbody td{
     padding: 0px 50px;
     border-left: solid thin;
