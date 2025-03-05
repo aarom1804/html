@@ -16,10 +16,7 @@ tfoot{
     text-align: center;
     background-color: cyan;
 }
-caption{
-    background-color: cyan;
-    
-}
+
 mark{
     font-weight: bold;
     background-color: aqua;
